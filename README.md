@@ -10,6 +10,6 @@ This small software was created by a group of first year students:
 - Pham Thi Bich Tram
 - Nguyen Dang Trung Tien (leader)
 
-The software was written using MFC framework.
+The software was written using MFC framework. Bitmap-manipulating code are located in Bitmap.cpp and Effect.cpp
 
 ![](https://github.com/tien238lnd/Bitmap-Editor/blob/master/Demo.jpg)
